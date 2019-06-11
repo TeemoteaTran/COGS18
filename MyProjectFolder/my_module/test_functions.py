@@ -29,7 +29,7 @@ def test_right_letter():
 
 def test_print_word():
 	
-	assert print_word('Dabin', '     ') == '_ _ _ _ _ '
+	assert print_word('Dabin', '     ') == None
 	assert print_word('Seven Lions', 'S         s') == None
 
 def test_update_guessed():
