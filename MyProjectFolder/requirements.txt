@@ -1,0 +1,5 @@
+My project requires the python module python-vlc which can be installed using the command:
+
+pip install python-vlc
+
+This module requires the user to have VLC media player to be installed, specifcally the 64-bit version.
